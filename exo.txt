@@ -1,0 +1,16 @@
+Exercices séance 2  
+
+PhpExercice 1 : afficher le contenu d'une superglobale $_POST.
+Créer un simple champ d'un formulaire qui permet d'envoyer votre nom avec la méthode post.
+
+Exercice 2 : Créer une page login.php pour se connecter et afficher le prénom ainsi que le nom de l'utilisateur connecté sur la page d'accueil (index.php) 
+et une autre page (page1.php). 
+Vous utiliserez les variables $_SESSION. Créer le fichier de déconnection logout.php.
+Facultif : Pour valider le login vous pourrez récupérer le pseudo et le mot de passe de l'utilisateur dans un fichier .csv ou .json.
+
+
+Exercices séance 3Php
+
+Exercice 1: PDO Se connecter à MySQL avec PDO, développer le fichier test.php. 
+
+Exercice 2 : SQL Requêtes SQL Afficher les résultats d’une requête qui permet de mettre en capitales le champ ‘nom’ d’une table jeux_vidéo, développer le fichier games.php.
